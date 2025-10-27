@@ -11,3 +11,6 @@
 
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=LemonEatar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+<!-- DenverCoder1 -->
+![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark&hide_border=true)
